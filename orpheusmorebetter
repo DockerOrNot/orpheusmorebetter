@@ -54,7 +54,6 @@ def create_description(
         "",
         "[code]{0}[/code]".format(" | ".join(cmds)),
         "",
-        banner(),
     ]
     return description
 
